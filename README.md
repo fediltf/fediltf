@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **NoteShare**
 
 - 📫 How to reach me **mohamedfedi.letaief@eniso.u-sousse.tn**
-![linkedin]([https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]
+![image]([https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
