@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **mohamedfedi.letaief@eniso.u-sousse.tn**
 ![image]([https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]
-
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-fedi-letaief" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-fedi-letaief" height="30" width="40" /></a>
