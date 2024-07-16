@@ -6,13 +6,11 @@
 - 🔭 I’m currently working on **NoteShare**
 
 - 📫 How to reach me </br>
-**mohamedfedi.letaief@eniso.u-sousse.tn**
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//in/mohamed-fedi-letaief/)
 &nbsp;
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mohamedfedi.letaief@eniso.u-sousse.tn)
-[![Gmail](
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:fediletaif16@gmail.com)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fediletaif16@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
