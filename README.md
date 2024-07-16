@@ -5,10 +5,11 @@
 
 - 🔭 I’m currently working on **NoteShare**
 
-- 📫 How to reach me **mohamedfedi.letaief@eniso.u-sousse.tn**
+- 📫 How to reach me </br>
+**mohamedfedi.letaief@eniso.u-sousse.tn**
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](https://www.linkedin.com//in/mohamed-fedi-letaief/)
 &nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) Outlook](mohamedfedi.letaief@eniso.u-sousse.tn)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-fedi-letaief" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-fedi-letaief" height="30" width="40" /></a>
