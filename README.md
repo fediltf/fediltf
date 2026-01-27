@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fediltf&label=Profile%20views&color=0e75b6&style=flat" alt="fediltf" /> </p>
 
-- 🔭 I’m currently working on **NoteShare**
-
 - 📫 How to reach me </br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//in/mohamed-fedi-letaief/)
 &nbsp;
