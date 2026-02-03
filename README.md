@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--fedi--letaief-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohamed-fedi-letaief)
 [![GitHub](https://img.shields.io/badge/GitHub-fediltf-black?style=flat&logo=github)](https://github.com/fediltf)
-[![Email](https://img.shields.io/badge/Email-mohemedfediletaief%40gmail.com-red?style=flat&logo=gmail)](mailto:mohemedfediletaief@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mohamedfediletaief%40gmail.com-red?style=flat&logo=gmail)](mailto:mohamedfediletaief@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-fediltf-orange?style=flat&logo=leetcode)](https://leetcode.com/fediltf)
 
 ## 🚀 About Me
@@ -84,20 +84,6 @@ AI-powered academic document sharing platform
 - Real-time chat functionality
 - User authentication and authorization
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fediltf&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fediltf&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fediltf&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 🌐 Languages
 
 - 🇬🇧 **English:** Fluent
@@ -110,7 +96,7 @@ AI-powered academic document sharing platform
 I'm always open to interesting conversations and collaboration opportunities!
 
 - 💼 [LinkedIn](https://linkedin.com/in/mohamed-fedi-letaief)
-- 📧 [Email](mailto:mohemedfediletaief@gmail.com)
+- 📧 [Email](mailto:mohamedfediletaief@gmail.com)
 - 💻 [LeetCode](https://leetcode.com/fediltf)
 
 ---
