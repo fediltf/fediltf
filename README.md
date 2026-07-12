@@ -10,7 +10,7 @@
 I'm a **System Engineer** from Tunisia, passionate about building AI-powered solutions and scalable backend systems. Currently working as an **AI Engineer**, where I develop computer vision models for dental imaging and integrate LLM-based treatment predictions.
 
 - 🎓 Graduated from National Engineering School of Sousse (2021-2024)
-- 🔭 Currently working on: AI-powered dental diagnostics with YOLO and LangChain
+- 🔭 Currently working on: AI Voice Interviewer
 - 🌱 Learning: Advanced deep learning architectures and MLOps
 - 💡 Interests: Computer Vision, NLP, Backend Development, Competitive Programming
 - 📍 Based in Sousse, Tunisia
@@ -18,7 +18,7 @@ I'm a **System Engineer** from Tunisia, passionate about building AI-powered sol
 ## 💼 Professional Experience
 
 ### AI Engineer @ SaphireDent
-*Nov 2025 - Present | Tunis, TN*
+*Nov 2025 - May 2026 | Tunis, TN*
 
 Working on cutting-edge AI solutions for dental diagnostics:
 - 🦷 Developed YOLO-based models for teeth and anomaly detection
@@ -65,6 +65,12 @@ Built scalable backend systems and APIs:
 
 ## 🏆 Featured Projects
 
+### 🎙️ AI Voice Interviewer
+AI-powered voice-based interview simulation system
+- Real-time voice interaction and speech recognition
+- AI-driven interview questions and evaluation
+- Built with Python, Node.js and modern AI/ML and Full-stack frameworks
+
 ### 🚗 Vehicle Counting System
 Computer vision system using YOLOv8 and SORT tracking
 - 92% detection accuracy
@@ -76,6 +82,12 @@ NLP-based sentiment analysis tool
 - Implemented VADER (rule-based) and RoBERTa (deep learning)
 - Comparative benchmarking of different approaches
 - Built with NLTK and Hugging Face transformers
+
+### 🎙️ AI Voice Interviewer
+AI-powered voice-based interview simulation system
+- Real-time voice interaction and speech recognition
+- AI-driven interview questions and evaluation
+- Built with Python and modern AI/ML frameworks
 
 ### 📚 NoteShare Platform
 AI-powered academic document sharing platform
